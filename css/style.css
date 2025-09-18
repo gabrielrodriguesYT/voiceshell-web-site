@@ -18,3 +18,29 @@ body{
 .body{
     color:white
 }
+
+h2{
+    margin:2.5%
+}
+.card-pai {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 colunas para desktop */
+    gap: 16px;
+    padding: 16px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    margin: 1%;
+    margin-top: 10%;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgb(0, 0, 0);
+    
+}
+
+/* Estilo para dispositivos móveis */
+@media (max-width: 600px) {
+    .card-container {
+        grid-template-columns: 1fr; /* 1 coluna para mobile */
+    }
+}
