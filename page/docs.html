@@ -1,14 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
+    <meta name="description" content="Voiceshell - Execute comandos Linux por voz.">
+    <title>Documentação do Voiceshell</title>
+    <link rel="stylesheet" href="../css/docs.css">
     <link rel="icon" href="imgs/logo.jpg" type="image/x-icon">
 </head>
 <body>
-    
+    <header class="head">
+        <h1>Voiceshell</h1>
+        <p>Voiceshell é um pacote de comandos Linux que permite, através da fala, executar comandos sem a necessidade de digitá-los. Foi criado por Gabriel Rodrigues Carneiro.</p>
+    </header>
+
+    <div class="body">
+        <h2>Modo de Uso</h2>
+        <ol>
+            <li>
+                <h3>Baixar o Pacote</h3>
+                <p>Você pode baixar o pacote .deb de duas formas:</p>
+                <p>Usando o <code>wget</code>:</p>
+                <pre><code>wget https://voiceshell.netlify.app/download/voiceshell_1.0_all.deb</code></pre>
+                <p>Acessando diretamente no navegador:</p>
+                <p><a href="https://voiceshell.netlify.app/download/voiceshell_1.0_all.deb">Baixe o Voiceshell aqui</a></p>
+            </li>
+            <li>
+                <h3>Instalação</h3>
+                <p>Após o download, navegue até o diretório onde o arquivo foi salvo e execute o seguinte comando para instalar:</p>
+                <pre><code>sudo dpkg -i voiceshell_1.0_all.deb</code></pre>
+                <p>Se a instalação for concluída sem erros, digite:</p>
+                <pre><code>voiceshell install</code></pre>
+            </li>
+            <li>
+                <h3>Começando a Usar</h3>
+                <p>Agora, você está pronto para usar o Voiceshell! Basta iniciar o programa com:</p>
+                <pre><code>voiceshell start</code></pre>
+                <p>E comece a falar!</p>
+            </li>
+        </ol>
+
+        <h2>Recursos</h2>
+        <ul>
+            <li>Execução por voz: Execute comandos do Linux apenas falando.</li>
+            <li>Interface intuitiva: Fácil de usar e configurar.</li>
+            <li>Compatível com diversas distribuições Linux, baseadas em Debian, como Debian, Ubuntu, Lubuntu, etc.</li>
+        </ul>
+    </div>
+
+    <footer class="footer">
+        <p>Para mais informações, visite <a href="https://voiceshell.netlify.app"> a página principal do nosso site</a>.</p>
+    </footer>
 </body>
 </html>
