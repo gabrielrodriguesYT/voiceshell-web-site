@@ -20,4 +20,18 @@
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
+
+   <url>
+      <loc>https://voiceshell.netlify.app/page/termos-de-uso.html</loc>
+      <lastmod>2025-09-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://voiceshell.netlify.app/page/termos-de-privacidade.html</loc>
+      <lastmod>2025-09-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
 </urlset>
