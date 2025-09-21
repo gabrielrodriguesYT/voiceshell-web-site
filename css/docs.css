@@ -41,8 +41,8 @@ pre {
 }
 
 a {
-    color: #ffffff;
-    /*text-decoration: none;*/
+    color: #007BFF;
+    text-decoration: none;
 }
 
 a:hover {
