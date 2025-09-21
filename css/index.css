@@ -16,6 +16,7 @@ header {
   text-align: center;
 }
 section {
+  width:90dvh;
   padding: 20px;
   margin: 20px auto;
   max-width: 800px;
