@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://voiceshell.netlify.app/</loc>
+      <loc>https://voiceshell.vercel.app/</loc>
       <lastmod>2025-09-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
 
     <url>
-      <loc>https://voiceshell.netlify.app/page/sobre.html</loc>
+      <loc>https://voiceshell.vercel.app/page/sobre.html</loc>
       <lastmod>2025-09-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>https://voiceshell.netlify.app/page/docs.html</loc>
+      <loc>https://voiceshell.vercel.app/page/docs.html</loc>
       <lastmod>2025-09-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>https://voiceshell.netlify.app/page/termos-de-uso.html</loc>
+      <loc>https://voiceshell.vercel.app/page/termos-de-uso.html</loc>
       <lastmod>2025-09-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>https://voiceshell.netlify.app/page/termos-de-privacidade.html</loc>
+      <loc>https://voiceshell.vercel.app/page/termos-de-privacidade.html</loc>
       <lastmod>2025-09-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
