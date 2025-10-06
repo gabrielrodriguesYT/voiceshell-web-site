@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://voiceshell.netlify.app/sitemap.xml
+Sitemap: https://voiceshell.vercel.app/sitemap.xml
